@@ -37,6 +37,7 @@ pred = tf.add(tf.mul(X, W), b)
 
 # Mean squared error
 cost = tf.reduce_sum(tf.pow(pred-Y, 2))/(2*n_samples)
+
 # Gradient descent
 optimizer = tf.train.GradientDescentOptimizer(learning_rate).minimize(cost)
 #optimizer = tf.train.RMSPropOptimizer(learning_rate).minimize(cost)

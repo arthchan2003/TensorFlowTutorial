@@ -50,3 +50,7 @@ in NN papers.
 * [A Constant Array + A Constant array]  (./TensorFlowTutorial/01_Basic/variables2.py)
 * [Generate random array and a function of it]  (./TensorFlowTutorial/01_Basic/variables3.py)
 * [A placeholder] (./TensorFlowTutorial/01_Basic/placeholder.py)
+* [Calculate the Gradient] (./TensorFlowTutorial/01_Basic/gradient.py)
+
+# Basic Machine Learning
+
