@@ -18,7 +18,7 @@ in NN papers.
 * [TFLearn.](https://github.com/tflearn/tflearn)
 * [LearningTensorFlow](http://learningtensorflow.com/examples/)
 * [The TensorFlow White paper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
-* [The TensorFlow paper] http://arxiv.org/pdf/1603.04467v2.pdf
+* [The TensorFlow paper] (http://arxiv.org/pdf/1603.04467v2.pdf)
 
 # Basic Installation
 
