@@ -52,10 +52,10 @@ in NN papers.
 * [A placeholder] (./01_Basic/placeholder.py)
 * [Calculate the Gradient] (./01_Basic/gradient.py)
 * Also check out
-..* [Americ Damien's more complicated example ](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/1_Introduction/basic_operations.py) 
-..* [Matrix multiplication ] (./01_Basic/matrix_mul.py)
-..* [Loop] (./01_Basic/variable_loopy.py)
-..* [While Loop] (./01_Basic/whileloop.py)
+  * [Americ Damien's more complicated example ](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/1_Introduction/basic_operations.py) 
+  * [Matrix multiplication ] (./01_Basic/matrix_mul.py)
+  * [Loop] (./01_Basic/variable_loopy.py)
+  * [While Loop] (./01_Basic/whileloop.py)
 
 # Basic Machine Learning
 * [Simple Gradient Descent Example] (./02_BasicML/gradient_descent.py)
@@ -63,7 +63,7 @@ in NN papers.
 * It is a matplot-free version of [Americ Damien's] (https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/linear_regression.py)
 * [Americ Damien's Logistic Regression] (https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/logistic_regression.py)
 
-# Some NN Models
+# Neural Networks on MNIST
 
 
 
