@@ -42,15 +42,28 @@ in NN papers.
 
 # Hello World
 
-* [Hello World] (./TensorFlowTutorial/01_Basic/helloword.py)
+* [Hello World] (./01_Basic/helloword.py)
                               
 # Basics - Using Constants, Variables
 
-* [A Constant Array + A Constant]  (./TensorFlowTutorial/01_Basic/variables1.py)
-* [A Constant Array + A Constant array]  (./TensorFlowTutorial/01_Basic/variables2.py)
-* [Generate random array and a function of it]  (./TensorFlowTutorial/01_Basic/variables3.py)
-* [A placeholder] (./TensorFlowTutorial/01_Basic/placeholder.py)
-* [Calculate the Gradient] (./TensorFlowTutorial/01_Basic/gradient.py)
+* [A Constant Array + A Constant]  (./01_Basic/variables1.py)
+* [A Constant Array + A Constant array]  (./01_Basic/variables2.py)
+* [Generate random array and a function of it]  (./01_Basic/variables3.py)
+* [A placeholder] (./01_Basic/placeholder.py)
+* [Calculate the Gradient] (./01_Basic/gradient.py)
+* Also check out
+** Americ Damien's more complicated example (https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/1_Introduction/basic_operations.py) 
+** [Matrix multiplication ] (./01_Basic/matrix_mul.py)
+** [Loop] (./01_Basic/variable_loopy.py)
+** [While Loop] (./01_Basic/whileloop.py)
 
 # Basic Machine Learning
+* [Simple Gradient Descent Example] (./02_BasicML/gradient_descent.py)
+* [Basic Linear Regression] (./02_BasicML/linear_regression.py)
+** It is a matplot-free version of [Americ Damien's] (https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/linear_regression.py)
+* [Americ Damien's Logistic Regression] (https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/logistic_regression.py)
+
+# Some NN Models
+
+
 

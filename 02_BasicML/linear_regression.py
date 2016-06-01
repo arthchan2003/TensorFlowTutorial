@@ -1,5 +1,5 @@
 '''A linear regression learning algorithm example using TensorFlow library.
-Author: Aymeric Damien
+Original Author: Aymeric Damien
 Project: https://github.com/aymericdamien/TensorFlow-Examples/
 
 (Arthur: I modified this example from Aymeric Damien's great
