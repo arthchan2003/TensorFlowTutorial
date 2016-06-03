@@ -68,5 +68,11 @@ in NN papers.
 * [A simple modification which adds one more layer into MLP]  (./03_NN/MLPmod.py)
 * [Americ Damien's Convolution Neural Network Example] (https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/convolutional_network.py)
 
+Sections Under Construction
+
+# Different Packages which work well with Tensorflow
+* Keras - e.g. how to train a 99%+ MNIST classifier. 
+* TFLearn - easy to use interface. 
+
 # RNN
-Under Construction.
+
