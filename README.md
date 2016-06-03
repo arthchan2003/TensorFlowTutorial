@@ -68,6 +68,5 @@ in NN papers.
 * [A simple modification which adds one more layer into MLP]  (./03_NN/MLPmod.py)
 * [Americ Damien's Convolution Neural Network Example] (https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/convolutional_network.py)
 
-* RNN
-
+# RNN
 Under Construction.
