@@ -4,6 +4,8 @@ This example is using the MNIST database of handwritten digits
 (http://yann.lecun.com/exdb/mnist/)
 Author: Aymeric Damien
 Project: https://github.com/aymericdamien/TensorFlow-Examples/
+
+Arthur: Added one more layer. 
 '''
 
 # Import MINST data
@@ -39,7 +41,7 @@ def multilayer_perceptron(x, weights, biases):
     layer_2 = tf.add(tf.matmul(layer_1, weights['h2']), biases['b2'])
     layer_2 = tf.nn.relu(layer_2)
     # Hidden layer with RELU activation
-    layer_3 = tf.add(tf.matmul(layer_2, weights['h2']), biases['b2'])
+    layer_3 = tf.add(tf.matmul(layer_2, weights['h3']), biases['b3'])
     layer_3 = tf.nn.relu(layer_3)
 
     # Output layer with linear activation
@@ -50,7 +52,7 @@ def multilayer_perceptron(x, weights, biases):
 weights = {
     'h1': tf.Variable(tf.random_normal([n_input, n_hidden_1])),
     'h2': tf.Variable(tf.random_normal([n_hidden_1, n_hidden_2])),
-    'h2': tf.Variable(tf.random_normal([n_hidden_2, n_hidden_3])),
+    'h3': tf.Variable(tf.random_normal([n_hidden_2, n_hidden_3])),
     'out': tf.Variable(tf.random_normal([n_hidden_3, n_classes]))
 }
 biases = {

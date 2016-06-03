@@ -60,10 +60,14 @@ in NN papers.
 # Basic Machine Learning
 * [Simple Gradient Descent Example] (./02_BasicML/gradient_descent.py)
 * [Basic Linear Regression] (./02_BasicML/linear_regression.py)
-  * It is a matplot-free version of [Americ Damien's] (https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/linear_regression.py)
-* [Americ Damien's Logistic Regression] (https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/logistic_regression.py)
+  * It is a matplot-free version of [Americ Damien's Example] (https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/linear_regression.py)
+* [Americ Damien's Logistic Regression Example] (https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/logistic_regression.py)
 
 # Neural Networks on MNIST
+* [Americ Damien's Multi-Layer Perceptron Example] (https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/multilayer_perceptron.py)
+* [A simple modification which adds one more layer into MLP]  (./03_NN/MLPmod.py)
+* [Americ Damien's Convolution Neural Network Example] (https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/convolutional_network.py)
 
+* RNN
 
-
+Under Construction.
